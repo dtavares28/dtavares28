@@ -1,6 +1,6 @@
 # Dayane Tavares
 
-**Salesforce Developer** · Apex · LWC · SOQL
+**Salesforce Developer** · Apex · LWC · SOQL · API · JavaScript · HTML · CSS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayane-tavares-b03612107/)
 [![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/daytavares)
