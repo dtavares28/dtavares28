@@ -25,7 +25,7 @@ I'm communicative, I enjoy digging into problems until I find a working solution
 
 ### Featured project
 
-**[Account Health Score](https://github.com/dtavaress/case-health-score)** — an account health scoring engine in Salesforce. Scores every account from 0 to 100 daily, based on five weighted indicators configurable without deployment. Idempotent batch processing, 31 tests with 99% / 96% coverage, and end-to-end validation against manually calculated expectations.
+**[Account Health Score](https://github.com/dtavares28/case-health-score)** — an account health scoring engine in Salesforce. Scores every account from 0 to 100 daily, based on five weighted indicators configurable without deployment. Idempotent batch processing, 31 tests with 99% / 96% coverage, and end-to-end validation against manually calculated expectations.
 
 ### Get in touch
 
@@ -49,7 +49,7 @@ Sou comunicativa, gosto de investigar problemas até encontrar uma solução que
 
 ### Projeto em destaque
 
-**[Health Score de Contas](https://github.com/dtavaress/case-health-score)** — motor de pontuação de saúde de carteira em Salesforce. Atribui a cada conta uma nota de 0 a 100, recalculada diariamente a partir de cinco indicadores ponderados e configuráveis sem deploy. Processamento em batch idempotente, 31 testes com 99% e 96% de cobertura, e validação ponta a ponta contra cálculo feito à mão.
+**[Health Score de Contas](https://github.com/dtavares28/case-health-score)** — motor de pontuação de saúde de carteira em Salesforce. Atribui a cada conta uma nota de 0 a 100, recalculada diariamente a partir de cinco indicadores ponderados e configuráveis sem deploy. Processamento em batch idempotente, 31 testes com 99% e 96% de cobertura, e validação ponta a ponta contra cálculo feito à mão.
 
 ### Contato
 
