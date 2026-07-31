@@ -3,9 +3,7 @@
 **Salesforce Developer** · Apex · LWC · SOQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayane-tavares-b03612107/)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/daytavares)
 
 ---
 
@@ -29,7 +27,7 @@ I'm communicative, I enjoy digging into problems until I find a working solution
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/dayane-tavares-b03612107/)
+[LinkedIn](https://www.linkedin.com/in/dayane-tavares-b03612107/) · [Trailhead](https://www.salesforce.com/trailblazer/daytavares)
 
 ---
 
@@ -53,4 +51,4 @@ Sou comunicativa, gosto de investigar problemas até encontrar uma solução que
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/dayane-tavares-b03612107/)
+[LinkedIn](https://www.linkedin.com/in/dayane-tavares-b03612107/) · [Trailhead](https://www.salesforce.com/trailblazer/daytavares)
